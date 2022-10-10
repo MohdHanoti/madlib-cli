@@ -21,3 +21,5 @@ Tests
 tested by pytest
 
 write pytest in the terminal to see results
+
+[PR](https://github.com/MohdHanoti/madlib-cli/pull/1)
